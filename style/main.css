@@ -51,10 +51,8 @@
     }
 .menu2
 {
-    height:18px;
     background-color:;
-    border:2px;
-    border-color:#e0eeeb;
+    border:2px none #e0eeeb;
     text-align: left;
     }
 .frame
